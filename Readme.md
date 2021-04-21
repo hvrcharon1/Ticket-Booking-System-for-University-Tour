@@ -1,5 +1,5 @@
 Technology Used:
 
-AngularJS
-PHP
-MySQL
+# AngularJS
+# PHP
+# MySQL
