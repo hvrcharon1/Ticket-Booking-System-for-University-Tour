@@ -6,7 +6,7 @@ email: harshalrasal792@gmail.com
 steps to Create:
 1.Explain Database Structure:
 	DB Mame: ticket_booking
-	Table Name: society_tour	
+	Table Name: university_tour	
 	columns: id	name	phone	status
 
 
